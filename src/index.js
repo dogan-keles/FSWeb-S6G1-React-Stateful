@@ -13,10 +13,10 @@ const root = createRoot(container);
 root.render(
   <>
     <Sayac />
-    {/* <RuhHalleri />
-  <Dondurucu />
-  <Input />
-  <Kareler />
-<Programcilar /> */}
+    <RuhHalleri />
+    <Dondurucu />
+    <Input />
+    <Kareler />
+    <Programcilar />
   </>
 );
